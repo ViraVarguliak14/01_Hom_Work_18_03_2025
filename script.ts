@@ -78,7 +78,7 @@ direction = 'down';
 
 // direction = 'eight'; Ошибка типизаций значения переменой
 
-// Типизация функций
+// функций
 
 const sum = (a: number, b: number): string | number => {
     return (
